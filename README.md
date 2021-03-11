@@ -7,4 +7,4 @@ to learn golang and algorithms.
 2. Added gcd via Eucledian algorithm.
 
 ## Future versions:
-[] Fibonacci algorithms
+[ ] Fibonacci algorithms
