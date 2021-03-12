@@ -9,7 +9,6 @@ to learn golang and algorithms.
 ### 0.0.2
 1. Added merge sort.
 
-
 ## Future versions:
 - [x] Sorts: merge sort
 - [ ] Sorts: quick sort
