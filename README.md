@@ -7,6 +7,7 @@ to learn golang and algorithms.
 2. Added gcd via Eucledian algorithm.
 
 ## Future versions:
+<<<<<<< HEAD
 - [x] Sorts: merge sort
 - [ ] Sorts: quick sort
 - [ ] Searches: binary search
