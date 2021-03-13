@@ -15,3 +15,4 @@ to learn golang and algorithms.
 - [x] Sorts: merge sort
 - [x] Sorts: quick sort
 - [ ] Searches: binary search
+- [ ] Math: digital root O(1)
