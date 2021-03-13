@@ -2,6 +2,17 @@
 This is my personal project I work on in my free time
 to learn golang and algorithms.
 
+# Wiki
+## Searches
+* [Linear search](linearsearch.go) 
+## Sorts
+* [Merge sort](sortMerge.go)
+* [Quick sort](sortQuick.go)
+## Math
+* [GCD](gcd.go)
+
+
+
 ## Changelog:
 ### 0.0.1
 1. Added gcd.
