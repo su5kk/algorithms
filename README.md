@@ -11,5 +11,5 @@ to learn golang and algorithms.
 
 ## Future versions:
 - [x] Sorts: merge sort
-- [ ] Sorts: quick sort
+- [x] Sorts: quick sort
 - [ ] Searches: binary search
