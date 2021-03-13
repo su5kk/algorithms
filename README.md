@@ -8,6 +8,8 @@ to learn golang and algorithms.
 2. Added linear search. (I do not know if you ever want to use that however).
 ### 0.0.2
 1. Added merge sort.
+### 0.0.3
+1. Added quick sort.
 
 ## Future versions:
 - [x] Sorts: merge sort
