@@ -11,7 +11,7 @@ to learn golang and algorithms.
 ## Math
 * [GCD](gcd.go)
 * [Binary exponentiation](pow.go)
-
+* [Digital root formula](digitalRoot.go)
 
 
 ## Changelog:
@@ -24,6 +24,7 @@ to learn golang and algorithms.
 1. Added quick sort.
 ### 0.0.4
 1. Added binary exponentiation.
+2. Added digital root formula.
 
 ## Future versions:
 - [x] Sorts: merge sort
