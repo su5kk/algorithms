@@ -10,6 +10,7 @@ to learn golang and algorithms.
 * [Quick sort](sortQuick.go)
 ## Math
 * [GCD](gcd.go)
+* [Binary exponentiation](pow.go)
 
 
 
@@ -21,9 +22,12 @@ to learn golang and algorithms.
 1. Added merge sort.
 ### 0.0.3
 1. Added quick sort.
+### 0.0.4
+1. Added binary exponentiation.
 
 ## Future versions:
 - [x] Sorts: merge sort
 - [x] Sorts: quick sort
+- [x] Math: binary exponentiation
+- [x] Math: digital root O(1)
 - [ ] Searches: binary search
-- [ ] Math: digital root O(1)
