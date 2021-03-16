@@ -25,10 +25,13 @@ to learn golang and algorithms.
 ### 0.0.4
 1. Added binary exponentiation.
 2. Added digital root formula.
+### 0.0.5
+1. Added LCM
 
 ## Future versions:
 - [x] Sorts: merge sort
 - [x] Sorts: quick sort
 - [x] Math: binary exponentiation
 - [x] Math: digital root O(1)
+- [x] Math: LCM
 - [ ] Searches: binary search
