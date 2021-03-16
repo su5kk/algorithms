@@ -10,6 +10,7 @@ to learn golang and algorithms.
 * [Quick sort](sortQuick.go)
 ## Math
 * [GCD](gcd.go)
+* [LCM](lcm.go)
 * [Binary exponentiation](pow.go)
 * [Digital root formula](digitalRoot.go)
 
