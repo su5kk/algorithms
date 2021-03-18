@@ -5,6 +5,7 @@ to learn golang and algorithms.
 # Wiki
 ## Searches
 * [Linear search](linearsearch.go) 
+* [Binary search](binarySearch.go)
 ## Sorts
 * [Merge sort](sortMerge.go)
 * [Quick sort](sortQuick.go)
@@ -28,6 +29,8 @@ to learn golang and algorithms.
 2. Added digital root formula.
 ### 0.0.5
 1. Added LCM
+### 0.0.6
+1. Added binary search
 
 ## Future versions:
 - [x] Sorts: merge sort
@@ -35,4 +38,5 @@ to learn golang and algorithms.
 - [x] Math: binary exponentiation
 - [x] Math: digital root O(1)
 - [x] Math: LCM
-- [ ] Searches: binary search
+- [x] Searches: binary search (finally)
+- [ ] Math: Fibonnaci numbers on O(log N)
