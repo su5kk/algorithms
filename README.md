@@ -14,6 +14,7 @@ to learn golang and algorithms.
 * [LCM](lcm.go)
 * [Binary exponentiation](pow.go)
 * [Digital root formula](digitalRoot.go)
+* [N-th Fibonacci number O(logN)](fibonacci.go)
 
 
 ## Changelog:
