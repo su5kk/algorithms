@@ -30,7 +30,11 @@ to learn golang and algorithms.
 ### 0.0.5
 1. Added LCM
 ### 0.0.6
+1. Wiki fixes
+### 0.0.7
 1. Added binary search
+### 0.0.8
+1. Added fibonacci number through matrix exponentiation.
 
 ## Future versions:
 - [x] Sorts: merge sort
@@ -39,4 +43,4 @@ to learn golang and algorithms.
 - [x] Math: digital root O(1)
 - [x] Math: LCM
 - [x] Searches: binary search (finally)
-- [ ] Math: Fibonnaci numbers on O(log N)
+- [x] Math: Fibonnaci numbers on O(log N)
