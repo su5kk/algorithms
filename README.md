@@ -15,6 +15,8 @@ to learn golang and algorithms.
 * [Binary exponentiation](pow.go)
 * [Digital root formula](digitalRoot.go)
 * [N-th Fibonacci number O(logN)](fibonacci.go)
+## Graphs
+* [DFS](dfs.go)
 
 
 ## Changelog:
@@ -36,6 +38,8 @@ to learn golang and algorithms.
 1. Added binary search
 ### 0.0.8
 1. Added fibonacci number through matrix exponentiation.
+### 0.0.9
+1. Added path searching between two verices via DFS.
 
 ## Future versions:
 - [x] Sorts: merge sort
@@ -45,3 +49,4 @@ to learn golang and algorithms.
 - [x] Math: LCM
 - [x] Searches: binary search (finally)
 - [x] Math: Fibonnaci numbers on O(log N)
+- [x] Graphs: Path searching via DFS.
