@@ -15,9 +15,9 @@ to learn golang and algorithms.
 * [Binary exponentiation](pow.go)
 * [Digital root formula](digitalRoot.go)
 * [N-th Fibonacci number O(logN)](fibonacci.go)
+* [Euler's totient function](eulerTotient.go)
 ## Graphs
 * [DFS](dfs.go)
-
 
 ## Changelog:
 ### 0.0.1
@@ -40,6 +40,8 @@ to learn golang and algorithms.
 1. Added fibonacci number through matrix exponentiation.
 ### 0.0.9
 1. Added path searching between two verices via DFS.
+### 0.0.10
+1. Added Euler's totient function with O(sqrt(N)).
 
 ## Future versions:
 - [x] Sorts: merge sort
@@ -50,3 +52,4 @@ to learn golang and algorithms.
 - [x] Searches: binary search (finally)
 - [x] Math: Fibonnaci numbers on O(log N)
 - [x] Graphs: Path searching via DFS.
+- [x] Math: Euler's totient function O(sqrt(N)).
