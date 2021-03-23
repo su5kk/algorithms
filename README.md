@@ -18,6 +18,7 @@ to learn golang and algorithms.
 * [Euler's totient function](eulerTotient.go)
 ## Graphs
 * [DFS](dfs.go)
+* [BFS](bfs.go)
 
 ## Changelog:
 ### 0.0.1
@@ -42,14 +43,18 @@ to learn golang and algorithms.
 1. Added path searching between two verices via DFS.
 ### 0.0.10
 1. Added Euler's totient function with O(sqrt(N)).
+### 0.1.0
+1. Added finding shortest path to some vertex via BFS.
 
 ## Future versions:
-- [x] Sorts: merge sort
-- [x] Sorts: quick sort
 - [x] Math: binary exponentiation
 - [x] Math: digital root O(1)
 - [x] Math: LCM
-- [x] Searches: binary search (finally)
 - [x] Math: Fibonnaci numbers on O(log N)
 - [x] Graphs: Path searching via DFS.
+- [x] Graphs: Shortest path via BFS.
 - [x] Math: Euler's totient function O(sqrt(N)).
+- [x] Searches: binary search (finally)
+- [x] Sorts: quick sort
+- [x] Sorts: merge sort
+
