@@ -16,6 +16,7 @@ to learn golang and algorithms.
 * [Digital root formula](digitalRoot.go)
 * [N-th Fibonacci number O(logN)](fibonacci.go)
 * [Euler's totient function](eulerTotient.go)
+* [Primality test](prime.go)
 ## Graphs
 * [DFS](dfs.go)
 * [BFS](bfs.go)
@@ -45,15 +46,18 @@ to learn golang and algorithms.
 1. Added Euler's totient function with O(sqrt(N)).
 ### 0.1.0
 1. Added finding shortest path to some vertex via BFS.
+### 0.1.1
+1. Added primality test.
 
 ## Future versions:
 - [x] Math: binary exponentiation
 - [x] Math: digital root O(1)
 - [x] Math: LCM
 - [x] Math: Fibonnaci numbers on O(log N)
+- [x] Math: Euler's totient function O(sqrt(N)).
+- [x] Math: Primality test.
 - [x] Graphs: Path searching via DFS.
 - [x] Graphs: Shortest path via BFS.
-- [x] Math: Euler's totient function O(sqrt(N)).
 - [x] Searches: binary search (finally)
 - [x] Sorts: quick sort
 - [x] Sorts: merge sort
