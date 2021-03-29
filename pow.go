@@ -1,7 +1,7 @@
 package algorithms
 
 // Pow does what you think it does.
-func Pow(a, x int64) int64 {
+func Pow(a, x, m int64) int64 {
 	var result int64
 	result = 1
 	for x > 0 {
@@ -12,9 +12,9 @@ func Pow(a, x int64) int64 {
 		// and skip otherwise.
 		// a is also squares each time regardless of the current bit.
 		if x&1 == 1 {
-			result *= a
+			result = (result * a) % m
 		}
-		a *= a
+		a = (a * a) % m
 		x >>= 1
 	}
 	return result

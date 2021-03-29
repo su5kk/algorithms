@@ -17,6 +17,7 @@ to learn golang and algorithms.
 * [N-th Fibonacci number O(logN)](fibonacci.go)
 * [Euler's totient function](eulerTotient.go)
 * [Primality test](prime.go)
+* [Inverses modulo m](inversemod.go)
 ## Graphs
 * [DFS](dfs.go)
 * [BFS](bfs.go)
@@ -48,6 +49,8 @@ to learn golang and algorithms.
 1. Added finding shortest path to some vertex via BFS.
 ### 0.1.1
 1. Added primality test.
+### 0.1.2
+1. Added inverses modulo m
 
 ## Future versions:
 - [x] Math: binary exponentiation
@@ -56,6 +59,7 @@ to learn golang and algorithms.
 - [x] Math: Fibonnaci numbers on O(log N)
 - [x] Math: Euler's totient function O(sqrt(N)).
 - [x] Math: Primality test.
+- [x] Math: Inverses modulo m.
 - [x] Graphs: Path searching via DFS.
 - [x] Graphs: Shortest path via BFS.
 - [x] Searches: binary search (finally)
