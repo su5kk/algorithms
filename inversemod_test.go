@@ -13,21 +13,9 @@ func TestInverse(t *testing.T) {
 
 	for _, test := range tests {
 		t.Run(test.name, func(t *testing.T) {
-			if output := FindAllInverses(test.input); !compare(output, test.expected) {
+			if output := FindAllInverses(test.input); !Compare(output, test.expected) {
 				t.Errorf("For input: %d, expected: %v, but got: %v", test.input, test.expected, output)
 			}
 		})
 	}
-}
-
-func compare(a, b []int64) bool {
-	if len(a) != len(b) {
-		return false
-	}
-	for id := range a {
-		if a[id] != b[id] {
-			return false
-		}
-	}
-	return true
 }

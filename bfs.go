@@ -15,7 +15,7 @@ func FindShortestPath(graph [][]int64, numberOfVertices, to int64) []int64 {
 		path = append(path, i)
 	}
 
-	return reverse(path)
+	return Reverse(path)
 }
 
 func bfs(graph [][]int64, numberOfVertices, start int64) ([]bool, []int64) {
@@ -44,13 +44,4 @@ func bfs(graph [][]int64, numberOfVertices, start int64) ([]bool, []int64) {
 		}
 	}
 	return used, parents
-}
-
-// apparently go does not have a reverse so....
-// uses 2 pointers method
-func reverse(a []int64) []int64 {
-	for left, right := 0, len(a)-1; left < right; left, right = left+1, right-1 {
-		a[left], a[right] = a[right], a[left]
-	}
-	return a
 }

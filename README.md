@@ -21,6 +21,7 @@ to learn golang and algorithms.
 ## Graphs
 * [DFS](dfs.go)
 * [BFS](bfs.go)
+* [Topological sort](tpsort.go)
 
 ## Changelog:
 ### 0.0.1
@@ -50,7 +51,12 @@ to learn golang and algorithms.
 ### 0.1.1
 1. Added primality test.
 ### 0.1.2
-1. Added inverses modulo m
+1. Added inverses modulo m.
+### 0.1.3
+1. Added topological sort for acyclic graphs.
+2. Added DFS func to dfs.go for basic usage.
+3. Made reverse and compare funcs available for export.
+
 
 ## Future versions:
 - [x] Math: binary exponentiation
@@ -62,6 +68,7 @@ to learn golang and algorithms.
 - [x] Math: Inverses modulo m.
 - [x] Graphs: Path searching via DFS.
 - [x] Graphs: Shortest path via BFS.
+- [x] Graphs: Topological search via DFS.
 - [x] Searches: binary search (finally)
 - [x] Sorts: quick sort
 - [x] Sorts: merge sort
