@@ -22,6 +22,7 @@ to learn golang and algorithms.
 * [DFS](dfs.go)
 * [BFS](bfs.go)
 * [Topological sort](tpsort.go)
+* [Cycle checker](findCycle.go)
 
 ## Changelog:
 ### 0.0.1
@@ -56,6 +57,8 @@ to learn golang and algorithms.
 1. Added topological sort for acyclic graphs.
 2. Added DFS func to dfs.go for basic usage.
 3. Made reverse and compare funcs available for export.
+### 0.1.4
+1. Added graph cycle check to support [Topological sort](tpsort.go)
 
 
 ## Future versions:
@@ -69,7 +72,8 @@ to learn golang and algorithms.
 - [x] Graphs: Path searching via DFS.
 - [x] Graphs: Shortest path via BFS.
 - [x] Graphs: Topological search via DFS.
-- [x] Searches: binary search (finally)
-- [x] Sorts: quick sort
-- [x] Sorts: merge sort
+- [x] Graphs: Check if graph is cyclic.
+- [x] Searches: binary search (finally).
+- [x] Sorts: quick sort.
+- [x] Sorts: merge sort.
 
